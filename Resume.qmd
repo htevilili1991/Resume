@@ -1,0 +1,131 @@
+---
+title: "Resume"
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+    self-contained: true
+  pdf:
+    pdf-engine: xelatex
+    number-sections: true
+css: resume.css
+format-links: [pdf]
+---
+
+::: {.contact-block}
+**Author:** Herman Tevilili  
+**Email:** [htevilili@vanuatu.gov.vu](mailto:htevilili@vanuatu.gov.vu)  
+**Source Code:** [View on GitHub](https://github.com/username/repo)  
+**Note:** This resume was built using Quarto, showcasing proficiency in R and reproducible research practices.
+:::
+
+## SUMMARY
+
+Dedicated and results-oriented Statistician with over 3 years of experience in statistical analysis, data management, and report writing. Proficient in R, Stata, Python, and SQL, with expertise in analyzing household surveys, economic data, and social indicators. Adept at developing reproducible research workflows using Git and GitHub. Proven ability to deliver high-quality statistical insights and training, contributing to evidence-based decision-making for small island states.
+
+## EDUCATION
+
+**Bachelor's Degree in Economic and Social Administration** <br> *Université Toulouse 1 Capitole* [*2019 --- 2021 *]{.cvdate}<br>*Obtained*
+
+-   The program combined law, economics, finance, management, and computer science.
+-   Developed expertise in accounting, finance, administration, sales, marketing, law, and human resources.
+-   Acquired multidisciplinary knowledge enabling a holistic approach to statistical analysis and decision-making.
+
+**Bachelor of Mathematics and Computer Science** <br> *New Caledonia University* [*2013 --- 2015 *]{.cvdate}<br>*Not Obtained*
+
+-   Built a strong foundation in programming, database management, and system analysis.
+-   Developed advanced skills in software troubleshooting, web development, and the integration of technology in statistical processes.
+-   This education significantly enhanced my ICT knowledge, contributing to my expertise in data management and system optimization.
+
+## WORK EXPERIENCE {style="page-break-before: always"}
+
+### Statistician - Gender, Justice and Culture
+
+***Vanuatu Bureau of Statistics*** [Feb 2022 -- Current]{.cvdate}
+
+-   Leveraged R and SQL to manage and analyze data requests for the 2020 National Population and Housing Census.
+-   Contributed to the NPHC volume 2 tabulation report by leading data analysis and table generation, focusing on New Area Councils and excluding correction factors. Used SQL and R to ensure the timely delivery of a comprehensive and informative report.
+-   Contributed to coding and reviewing the Vanuatu Constituency Profiles developped in R.
+-   Led the integration of CRVS [^1] and Census data to support the Ministry of Finance's Cash Transfer project (requested to VBoS and was then tasked by the Chief Statistician (CS)), with the resulting dataset successfully utilized during the pilot phase.
+-   Spearheaded the digitization process for the Public Service Commission’s Institutional Capacity Assessment survey, implementing innovative statistical techniques.
+-   Initiated the bureau’s transition to Drupal 10 for website redevelopment, enhancing user experience and functionality.
+-   Independently tasked by the CS with digitizing and implementing surveys for the Public Service Commission using MS Forms and Kobotools to evaluate customer satisfaction (Customer Satisfaction Survey), organizational strengths (Institutional Capacity Assessment Survey), and employee performance (Performance Appraisal Survey).
+
+[^1]: CRVS: Civil Registration and Vital Statistics support
+
+### Statistician Intern
+
+***Vanuatu Bureau of Statistics*** [Jun 2021 -- Aug 2021]{.cvdate}
+
+-   Subject of internship/problematic: How would inferential statistics be an asset to the National Statistics Office of Vanuatu?
+-   Internship Report: [https://bit.ly/3zZm4zL](https://bit.ly/3zZm4zL). I used Adobe InDesign to create the report, most of the Illustrations and charts within the report were done using Adobe Illustrator.
+
+### Tutor
+
+***Agence universitaire de la Francophonie - Port-Vila*** [Jun 2018 -- Nov 2018]{.cvdate}
+
+-   Conducted comprehensive training sessions for students pursuing the "Certificat Informatique et Internet" (C2i), focusing on essential ICT skills, digital literacy, and internet navigation.
+-   Provided one-on-one support to students through Moodle, fostering a practical and interactive learning environment.
+
+
+### Value-Added Services & Billing Technician
+
+***Telecom Vanuatu Ltd*** [Jun 2021 -- Aug 2021]{.cvdate}
+
+-   Managed daily operations and maintenance of systems for statistics, billing, and provisioning, ensuring seamless functionality and reliability.
+-   Resolved technical issues and conducted regular system health checks to optimize performance and minimize downtime.
+-   Maintained and organized the data warehouse for reporting systems, ensuring data integrity and secure storage.
+-   Implemented system updates and process improvements to enhance reporting efficiency and accuracy.
+-   Collaborated with marketing and finance teams to successfully implement new offers, packages, and pricing plans.
+-   Ensured accurate billing for all Telecom services through thorough review, validation, and troubleshooting of processes.
+-   Resolved billing discrepancies promptly to maintain high levels of accuracy and customer satisfaction.
+-   Alternated monthly responsibilities for critical billing processes, overseeing fortnightly and end-of-month reports with precision and timeliness.
+-   Configured and managed BusinessObjects (BO) for Oracle databases, designing and scheduling reports tailored to finance and marketing needs.
+-   Administered the Enterprise Resource Planning (ERP) system (GPTo) and Oracle database, updating real-time sales data, project progress, and product details.
+-   Performed bi-weekly and monthly manual database updates, ensuring the integrity and accuracy of financial reports critical to operational success.
+
+
+### IT Technician, Web developer & Tutor
+
+***Computer Network Services*** [2013 -- 2015]{.cvdate}
+
+-   Ensured proper functioning of computer networks through maintenance and troubleshooting.
+-   Diagnosed and resolved network-related issues effectively.
+-   Installed and configured computer hardware and software.
+-   Designed and developed websites using HTML, CSS, JavaScript, and PHP, integrating databases for dynamic content.
+-   Implemented security measures to protect networks and systems from potential threats.
+-   Set up backup systems to safeguard critical data and implemented recovery plans for data loss scenarios.
+-   Provided technical support to end-users for hardware and software issues.
+-   Conducted training sessions and tutored individuals or groups in IT-related topics.
+-   Regularly updated and maintained systems, applying patches and upgrades as needed.
+-   Created and maintained documentation for systems, networks, and procedures.
+
+
+### Information Technology Technician Intern
+
+***BRED Bank (Vanuatu) Limited*** [Dec 2012 -- Jan 2013]{.cvdate}
+
+
+### Information Technology Technician Intern
+
+***AHITEC Services*** [Nov 2010 -- Nov 2010]{.cvdate}
+-   Part-Time Position during School Break
+
+
+### Information Technology Technician Intern
+
+***AHITEC Services*** [Nov 2010 -- Nov 2010]{.cvdate}
+-   DAEU 1 month internship program
+
+
+### Information Technology Technician Intern
+
+***SPIM*** [Nov 2009 -- Jan 2010]{.cvdate}
+-   Part-Time Position during School Break
+
+::: no-print
+## PRESENTATIONS AND WORKSHOPS
+
+-   Workshop: [WOMBAT 2024](https://wombat2024.numbat.space/) (22-23 Oct 2024, Monash University, Melbourne)
+:::
