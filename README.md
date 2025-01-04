@@ -18,7 +18,7 @@ This repository contains the source code for my professional resume. The resume 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/htevilili1991/Resume.git
    ```
 2. Open the `resume.qmd` file in your Quarto editor.
 3. Render the resume using Quarto:
