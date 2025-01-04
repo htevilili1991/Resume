@@ -30,7 +30,7 @@ This repository contains the source code for my professional resume. The resume 
 
 The resume can be generated in multiple formats:
 - **HTML**: Interactive and web-friendly.
-- **PDF**: Print-ready format using LaTeX.
+- **PDF**: Print-ready format using LaTeX. Ensure that a LaTeX distribution, such as TeX Live, is installed on your system.
 
 ## View the Resume
 
